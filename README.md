@@ -31,8 +31,8 @@ El proyecto de domotización de persianas se compone de dos versiones:
 
 1. **Clona el repositorio:**
     ```sh
-    git clone https://github.com/tu-usuario/domotizacion-persianas.git
-    cd domotizacion-persianas
+    git clone https://github.com/CristobalKDC/ProyectoSSF.git
+    cd ProyectoSSF
     ```
 
 2. **Selecciona la rama adecuada:**
